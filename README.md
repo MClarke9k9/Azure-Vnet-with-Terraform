@@ -1,2 +1,1 @@
-# Azure-Vnet-with-Terraform
-you will learn how to use Terraform to provision an Azure Virtual Network.The lab covers essential concepts of Terraform configurations to define a virtual network and its associated subnets. 
+<img width="886" height="554" alt="AzureVnetpeering" src="https://github.com/user-attachments/assets/7028e2d0-d3a8-46c1-8e92-93e49d86c61a" />
